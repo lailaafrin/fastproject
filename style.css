@@ -40,8 +40,22 @@ p{font-size:15px ;
       
       
    } 
+   .box{width: 1000px;
+      height: 600px;
+      border: 2px solid;color: black;
+      margin: auto;
+      
+       background-image:url(images/watch.png);
+       background-repeat: no-repeat;background-size: cover;background: linear-gradient( to right,#00803f59,red);
+       
+   }
    /* tree comment */
 .iconcontaner{
    display: flex;
 }
-/* four comment */
+
+/* six comend */
+
+.div{
+   background-color: brown;red
+}
