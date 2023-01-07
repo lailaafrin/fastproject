@@ -1,0 +1,47 @@
+*{
+   margin: 0px;
+   padding: auto;
+}
+#contaner{height:550px;
+   background-image: url(images/banner1.png);
+   background-position:;
+   background-repeat: no-repeat;
+   background-size:cover;
+   
+
+   
+   
+}
+.text{
+   position: relative; 
+   text-align: right;
+   padding: 200px 100px;
+   
+}
+h1{font-size: 30px;}
+p{font-size:15px ;
+   color: gray;}
+   
+   #workbutton{background-color: orangered;
+      padding: 10px 20px;
+      border:none;
+
+   }
+
+   /* two section */
+   .conta{
+      display: flex; 
+      justify-content: space-between;
+      
+
+   }
+   .title{background-color:rgb(155, 153, 148) ;
+      padding:300px;
+      
+      
+   } 
+   /* tree comment */
+.iconcontaner{
+   display: flex;
+}
+/* four comment */
